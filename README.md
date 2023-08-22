@@ -19,7 +19,7 @@
 
 ### Sobre
 
-Site feito em HTML e estilizado com Bootstrap para fazer desde a navbar, carrosel, card e o modal de contatos.
+Site feito em HTML e estilizado com Bootstrap para fazer desde a navbar, carrossel, card e o modal de contatos.
 
 ## 🤝 Colaboradores
 
